@@ -81,4 +81,4 @@ If your antivirus software flags the compiled executable as suspicious, this is 
 4. **Compile yourself** using the provided instructions to ensure the source is trusted
 
 ### License
-This project is licensed under the MIT License.
+This project is licensed under GNU GPLv3 only.
